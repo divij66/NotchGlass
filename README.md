@@ -1,3 +1,5 @@
+<img width="931" height="422" alt="Screenshot 2026-11-21 183312" src="https://github.com/user-attachments/assets/e3cbb5f3-29e1-49cf-aee1-b4044e1d5ef5" />
+<img width="1376" height="768" alt="preview" src="https://github.com/user-attachments/assets/e0dbdbad-69bf-4838-978f-3c1449d20661" />
 # NotchGlass — Liquid Glass Dynamic Island Utility for Windows 10/11
 
 A lightweight, pure **C++20 / Win32 / Direct2D / DirectComposition / Windows.UI.Composition** top-edge overlay built for **0% idle CPU** and **12–20 MB idle RAM**. Hover the compact top bar (or press `Ctrl + Alt + N`) to reveal media controls, per-app volume, per-display brightness, Pomodoro/Stopwatch + To-Do progress charts, morning motivation notes, a built-in MP4 screen recorder, clipboard history, and local Wi-Fi QR file sharing.
